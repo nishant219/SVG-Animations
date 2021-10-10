@@ -79,7 +79,7 @@ body {
 /* ....1st svg..... */
 
 #man-on-bike {
-    animation: bike 1.2s ease-in-out infinite alternate;
+    animation: bike 2s ease-in-out infinite alternate;
     transform-origin: bottom;
 }
 
